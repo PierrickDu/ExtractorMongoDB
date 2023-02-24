@@ -76,7 +76,7 @@ public class ReadCsv {
                     catalogue.marque = listClient[0];
                     catalogue.nom = listClient[1];
                     catalogue.puissance = Integer.parseInt(listClient[2]);
-                    catalogue.longueur = Integer.parseInt(listClient[3]);
+                    catalogue.longueur = listClient[3];
                     catalogue.nbPlaces = Integer.parseInt(listClient[4]);
                     catalogue.nbPortes = Integer.parseInt(listClient[5]);
                     catalogue.couleur = listClient[6];  

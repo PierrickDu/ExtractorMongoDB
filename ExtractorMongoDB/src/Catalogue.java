@@ -2,7 +2,7 @@ public class Catalogue {
     String marque;
     String nom;
     int puissance;
-    int longueur;
+    String longueur;
     int nbPlaces;
     int nbPortes;
     String couleur;
@@ -33,11 +33,11 @@ public class Catalogue {
         this.puissance = puissance;
     }
 
-    public int getLongueur() {
+    public String getLongueur() {
         return this.longueur;
     }
 
-    public void setLongueur(int longueur) {
+    public void setLongueur(String longueur) {
         this.longueur = longueur;
     }
 
