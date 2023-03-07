@@ -1,0 +1,3 @@
+m:homme,masculin
+f:femme,feminin
+Celibataire:célibataire,seul,seule
