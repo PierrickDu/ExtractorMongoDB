@@ -65,12 +65,13 @@ public class Client {
 
     public boolean check(){
         if(this.age>0 && 
-          (this.sexe=="f" ||
-           this.sexe=="m")&&
-          (this.fam=="celibataire" ||
-           this.fam=="en couple")&&
+          ("f".equals(this.sexe) ||
+           "m".equals(this.sexe))&&
+          ("Celibataire".equals(this.fam) ||
+          "En Couple".equals(this.fam))&&
+           this.taux>=0 &&
            this.nbenfant>=0){
-            return true;
+           return true;
         }
         else{
             return false;

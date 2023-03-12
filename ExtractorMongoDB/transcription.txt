@@ -1,3 +1,4 @@
 m:homme,masculin
 f:femme,feminin
-Celibataire:célibataire,seul,seule
+Celibataire:célibataire,seul,seule,Célibataire,celibataire,celibatairee
+En Couple:en couple,marie(e)

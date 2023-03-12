@@ -1,3 +1,5 @@
+import java.io.FileWriter;
+import java.io.IOException;
 import org.bson.Document;
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoCollection;
@@ -6,6 +8,13 @@ import com.mongodb.client.MongoDatabase;
 public class MongoAdd {
     public void addClient(Client clientToAdd, String fileName) {
         if(!clientToAdd.check()){
+            try {
+                FileWriter myWriter = new FileWriter("rejet.txt", true);                
+                myWriter.write(clientToAdd.age+","+clientToAdd.sexe+","+clientToAdd.taux+","+clientToAdd.fam+","+clientToAdd.nbenfant+","+clientToAdd.ndvoiture+","+clientToAdd.immatriculation+"\n");
+                myWriter.close();
+            } catch (IOException e) {                
+                e.printStackTrace();
+            }
             return;
         }
         MongoClient mongoClient = new MongoClient("localhost", 27017);
@@ -23,9 +32,11 @@ public class MongoAdd {
     }
 
     public void addMarketing(Marketing marketingToAdd, String fileName) {
+        System.out.println(marketingToAdd.age);  
         if(!marketingToAdd.check()){
             return;
         }
+        System.out.println(marketingToAdd.age);
         MongoClient mongoClient = new MongoClient("localhost", 27017);
         MongoDatabase client = mongoClient.getDatabase("projetBigData");
         MongoCollection<Document> marketing = client.getCollection(fileName);
@@ -40,6 +51,7 @@ public class MongoAdd {
     }
 
     public void addCatalogue(Catalogue catalogueToAdd, String fileName) {
+        System.out.println(catalogueToAdd.marque);
         MongoClient mongoClient = new MongoClient("localhost", 27017);
         MongoDatabase client = mongoClient.getDatabase("projetBigData");        
         MongoCollection<Document> catalogue = client.getCollection(fileName);

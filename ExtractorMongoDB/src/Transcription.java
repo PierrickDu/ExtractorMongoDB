@@ -1,4 +1,5 @@
 import java.io.*;
+import java.text.Normalizer;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -21,8 +22,10 @@ public class Transcription {
         }
     }
 
-    public String transcr(String input){
-        input = input.toLowerCase();
+    public String transcr(String input){       
+        input = Normalizer.normalize(input, Normalizer.Form.NFD);
+        input = input.replaceAll("[\\p{InCombiningDiacriticalMarks}]", "");        
+        input = input.toLowerCase();        
         for (String key : trancriptionTable.keySet()) {
             for (String element : trancriptionTable.get(key)) {
                 if (element.equals(input)) {

@@ -7,6 +7,14 @@ public class ReadCsv {
         MongoAdd MA = new MongoAdd();
         Client client = new Client(); 
         Transcription transcript = new Transcription();
+        try {
+            FileWriter myWriter = new FileWriter("rejet.txt");
+            myWriter.write("");
+            myWriter.close();
+        } catch (IOException e) {            
+            e.printStackTrace();
+        }
+        
         transcript.mapping();        
         try {
             BufferedReader br = new BufferedReader(new FileReader(fileName+".csv"));
@@ -33,7 +41,7 @@ public class ReadCsv {
             e.printStackTrace();
         }
     }
-
+ 
     public void readMarketing(String fileName) {
         String line = "";
         String splitBy = ",";

@@ -1,0 +1,163 @@
+20,?,742.0,En Couple,3,false,1088HQ72
+35,m,413.0,divorcee,1,false,8428YZ27
+-1,m,232.0,En Couple,1,true,6869VR67
+56,f,-1.0,En Couple,3,true,8827MD73
+-1,m,201.0,Celibataire,1,false,1308VH68
+49,m,-1.0,En Couple,4,false,8RE61
+46, ,235.0,Celibataire,0,false,7903HF77
+22,f,206.0,n/d,0,false,8877GH64
+-1,m,162.0,En Couple,0,true,2189KU70
+51,m,727.0,?,3,false,4382CW78
+26, ,1199.0,En Couple,2,true,4534ZB97
+55,f,-1.0,Celibataire,0,false,397KW60
+54,m,484.0, ,0,false,104MT65
+31,m,1363.0, ,0,false,9967WR76
+22,n/d,1111.0,Celibataire,0,false,1274VX72
+55,f,570.0, ,3,false,6967YX36
+28,?,449.0,Celibataire,0,false,7818HP59
+73,?,244.0,En Couple,1,false,300UB55
+21,m,155.0,?,0,false,7333HD34
+31,f,1354.0,?,2,false,7201MQ48
+32,n/d,1327.0,En Couple,2,false,313BC35
+-1,f,465.0,En Couple,2,false,9056HF42
+26, ,1162.0,En Couple,1,false,4725GB94
+19, ,1024.0,Celibataire,0,false,5396JQ25
+55,?,1235.0,Celibataire,0,false,9335PN43
+60,m,544.0, ,0,false,9877XC29
+67,m,-1.0,En Couple,2,true,7561SY44
+27,f,734.0,?,4,false,854HG18
+35,m,1251.0,En Couple,-1,false,6263ZU43
+58,n/d,587.0,En Couple,0,false,3232IT61
+-1,m,1061.0,En Couple,1,false,8392ZF84
+76,m,560.0, ,4,false,5131QL64
+42,m,-1.0,En Couple,0,false,3286EM47
+45,f,201.0,n/d,4,false,233WY20
+41,m,735.0,?,3,false,6319SR68
+-1,m,441.0,En Couple,3,false,3120WD75
+29,f,-1.0,Celibataire,2,false,1538CQ96
+26,m,196.0, ,0,false,8810UJ92
+42,f,-1.0,En Couple,1,true,7355PA22
+55,f,497.0,?,0,true,771XU52
+72,?,402.0,En Couple,0,false,921UY61
+28,?,517.0,Celibataire,0,false,5184UB58
+79,m,565.0, ,2,false,9110US68
+23,m,567.0,En Couple,-1,false,676YM41
+20,?,416.0,Celibataire,0,false,9393TX15
+24,?,557.0,En Couple,1,false,2641LY76
+76,f,224.0, ,0,false,9111BF20
+58,m,522.0,Celibataire,-1,false,6393QU38
+51,m,1210.0,n/d,2,false,8018LD90
+-1,m,550.0,En Couple,1,false,2298MX16
+22,n/d,1279.0,En Couple,3,false,1040KL83
+-1,m,191.0,Celibataire,0,false,2460HA13
+53,m,467.0,n/d,4,false,8139IJ37
+21,?,535.0,En Couple,2,false,6347QG71
+18,f,-1.0,En Couple,2,false,6933SY69
+27,?,575.0,Celibataire,0,false,2117QC62
+22,m,1222.0,n/d,1,false,2475QL58
+29,n/d,249.0,En Couple,3,false,3473QN27
+28,m,455.0,divorcee,1,false,7733PP26
+42,m,501.0, ,4,true,1284ZU80
+-1,m,246.0,Celibataire,3,false,4886VD54
+-1,f,190.0,En Couple,2,false,2318IP19
+67,f,499.0,n/d,1,false,5658PT67
+39, ,419.0,En Couple,1,false,1090TI79
+25,m,221.0,n/d,4,false,4577IA51
+66, ,485.0,En Couple,1,false,2232CX57
+42,f,-1.0,En Couple,2,false,710SR19
+61,m,856.0,En Couple,-1,false,1969BE56
+26,f,498.0, ,0,false,413FE96
+54,m,576.0,?,3,false,8923FV43
+23,f,161.0, ,1,false,4568RZ47
+24,f,234.0, ,2,false,3596OM56
+44,m,582.0,n/d,2,false,9546FG52
+28,n/d,589.0,En Couple,4,true,8691NT51
+28,f,438.0, ,4,false,1433EN70
+38,m,218.0,?,2,true,6582YS79
+82,?,513.0,En Couple,1,false,8025TP38
+32,f,-1.0,Celibataire,0,false,806ZO61
+45,f,455.0,n/d,1,false,5623OR32
+32,m,227.0,?,0,false,5667OI53
+30,m,175.0,divorcee,1,false,5232YN22
+51,m,434.0,En Couple,-1,false,579YY85
+48,m,1207.0,divorcee,1,false,6888NG86
+61, ,552.0,Celibataire,3,false,168UW75
+66, ,401.0,En Couple,3,true,8764KG86
+47, ,202.0,En Couple,1,true,4165LO58
+23,m,567.0,divorcee,3,false,5724VE10
+19,m,969.0,?,2,false,6963MI70
+50,m,734.0,?,0,true,4713ZE46
+40, ,407.0,En Couple,2,false,3787CP92
+81,m,434.0,En Couple,-1,false,2566UW53
+29,n/d,487.0,En Couple,0,true,1157WR50
+26,f,463.0,n/d,1,false,7729AO83
+-1,m,190.0,Celibataire,0,false,1120JR74
+45,n/d,911.0,En Couple,1,false,3870HO13
+26,m,1347.0,En Couple,-1,false,9243IK44
+20,m,159.0,n/d,2,false,8208LT22
+28,f,1309.0,Celibataire,-1,false,7653SU18
+34,m,222.0,n/d,1,false,1200OU95
+38,m,450.0,n/d,0,false,1928HP97
+37,m,577.0,?,0,false,3940QA41
+73,m,408.0, ,4,false,1990NF83
+21,m,483.0,?,3,false,8394EA61
+34,n/d,158.0,Celibataire,0,false,4282CJ38
+84,f,-1.0,En Couple,4,true,7991DB15
+60,m,733.0,n/d,0,true,5328HZ71
+43,m,527.0,divorcee,2,false,707GF48
+56, ,1205.0,Celibataire,0,false,4990RE92
+82,m,482.0,En Couple,-1,false,8702NV20
+38,n/d,463.0,En Couple,2,false,2630OB17
+31,n/d,513.0,Celibataire,1,false,6910ID40
+20,m,402.0,n/d,0,false,3248NU62
+57,f,537.0,n/d,4,true,713IG14
+57,n/d,488.0,En Couple,4,false,8472YS71
+21,m,954.0, ,2,false,3497AT82
+34,m,588.0, ,2,false,6810ZG43
+58,m,504.0,?,0,false,4830LI53
+38,f,-1.0,En Couple,4,false,2792ES25
+57,?,1165.0,En Couple,0,false,8921CA72
+31, ,1026.0,Celibataire,1,false,6883SY40
+50,m,468.0,En Couple,-1,false,2865EO14
+23, ,590.0,Celibataire,1,false,6690NR93
+41,m,1171.0,divorcee,3,false,15BN52
+30,m,455.0, ,0,false,6713ZF24
+79,n/d,584.0,Celibataire,0,false,3063SP76
+30,f,444.0,n/d,3,false,1355TW60
+57,m,1013.0,divorcee,2,false,529KY62
+43,m,-1.0,En Couple,3,false,4063VM44
+57,m,196.0, ,0,false,1628AE94
+41,f,1247.0,?,1,false,3122NN57
+18,f,219.0,En Couple,-1,true,6749TJ89
+42, ,164.0,En Couple,2,false,4022AE63
+48,m,475.0,?,0,false,2137LS58
+49,n/d,1291.0,En Couple,2,false,1806NR72
+52,m,1205.0, ,3,true,8496NZ35
+-1,m,881.0,Celibataire,0,false,4612NI59
+-1,m,599.0,En Couple,4,false,9053NN93
+34,m,219.0, ,2,false,2425CE27
+26,m,425.0,Celibataire,-1,false,2582HB68
+59,m,457.0, ,2,true,3835TR81
+75,m,433.0, ,3,false,6183YF64
+50,m,176.0, ,1,false,2951KB27
+21,m,438.0,En Couple,-1,false,9467LC51
+65,m,-1.0,En Couple,2,false,3623JS50
+20,m,487.0, ,3,true,2420ZM90
+-1,m,1089.0,En Couple,2,false,2293XD22
+19,f,442.0,?,0,false,8266EJ38
+57, ,1022.0,Celibataire,0,false,162YI37
+28,m,1311.0,En Couple,-1,true,5464GO56
+-1,m,436.0,Celibataire,0,false,1935LT29
+50,n/d,1060.0,En Couple,0,false,37NP23
+37,m,522.0,?,4,true,2863KT53
+24, ,583.0,Celibataire,0,false,9134QI47
+37,m,565.0,divorcee,3,false,2373JE47
+73,m,1044.0,?,3,false,4362WW54
+58,f,766.0, ,0,false,7033TJ58
+25,m,244.0, ,2,false,2508OO76
+36, ,156.0,En Couple,4,false,6306CV35
+19,?,1179.0,Celibataire,0,false,7570LN44
+24,m,-1.0,Celibataire,0,false,4112UQ76
+41,m,463.0,En Couple,-1,false,3232TU68
+31,m,211.0, ,1,false,5057LL25
+18,m,1283.0,?,1,false,753SK71
