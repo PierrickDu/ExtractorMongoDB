@@ -32,10 +32,7 @@ public class MongoAdd {
     }
 
     public void addMarketing(Marketing marketingToAdd, String fileName) {
-        System.out.println(marketingToAdd.age);  
-        if(!marketingToAdd.check()){
-            return;
-        }
+        System.out.println(marketingToAdd.age);          
         System.out.println(marketingToAdd.age);
         MongoClient mongoClient = new MongoClient("localhost", 27017);
         MongoDatabase client = mongoClient.getDatabase("projetBigData");
